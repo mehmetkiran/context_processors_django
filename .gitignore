@@ -1,0 +1,12 @@
+
+/**/migrations/*
+!/**/migrations/__init__.py
+
+.idea/
+venv/*
+__pycache__/*
+*.pyc
+
+
+*.sqlite3
+
